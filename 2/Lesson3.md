@@ -1,0 +1,9 @@
+# Please send me a card
+
+## 原文
+
+Postcards always spoil my holidays. Last summer, I went to Italy. I visisted museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Every day I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-sevent cards. I spent the whole day in my room, but I did not write a single card!
+
+## 译文
+
+明信片总搅得我假日不得安宁。去年夏天，我去了意大利。我参观了博物馆，还去了公园。一位好客的服务员教了我几句意大利语，之后还借给我一本书。我读了几行，但一个字也不懂。我们每天都想着明信片的事。假期过得很快，可我还没有给我的朋友寄过一张明信片。到了最后一天，我作出了一项重大决定。我早早起了床，买来了37张明信片。我在房间里关了整整一天。然而竟连一张明信片也没写成！
