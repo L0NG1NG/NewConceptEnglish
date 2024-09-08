@@ -10,23 +10,23 @@ Mr.James Scott has a garage in Sibury and now he has just bought another garage 
 
 ## 注释
 
-up to now/up till now/so far, 都表示到目前为止，截止到现在的之前怎么怎么样，后面接现在完成时。
+**up to now/up till now/so far** 表示到目前为止，截止到现在的之前怎么怎么样，后面接现在完成时。
 
-a great many=many：表示大量，接可数名词复数。
+**a great many = many** 表示大量，接可数名词复数。
 
 ## 现在完成时 VS 一般过去时
 
-1.现在的之前**全部完成**，可以换成一般过去时，二者都表示了在过去就已经完成了（现在已经不再这样）。例如：
+现在的之前**全部完成**，可以换成一般过去时，二者都表示了在过去就已经完成了（现在已经不再这样）。例如：
 
 - He has finished the homework.
 - He finished the homework.
 
-它们可以用于强调不同的侧重点：
+二者的区别在于侧重点不同：
 
 - He has finished the homework, so he can have a rest now.(强调现在)
-- He fiished the homework two hours ago.(强调时间)
+- He finshed the homework two hours ago.(强调时间)
 
-2.现在的之前部分完成，则不可换成一般过去时。例如：
+现在的之前**部分完成**，则不可换成一般过去时。例如：
 
 - We have learned English for ten years. (表示从过去到现在)
 - We learned English for ten years.(表示今后不再学英语)
