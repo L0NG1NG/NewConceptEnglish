@@ -22,3 +22,19 @@ I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my 
 | 可数名词单数 | a/an    | the |
 | 可数名词复数 | some/不加 | the |
 | 不可数名词  | some/不加 | the |
+
+## 短语动词
+
+单词变成短语再结合上下文就变成一个新的中文意思
+
+- I **put** your book on the shelf.（放）
+- I **put on** my hat and left the house. （戴）
+- Come and **look at** my photograph album.（看）
+- I am **looing for** my pen. I lost it this moring.（有目的地看，寻找）
+- Will you **look after** the children for me please.（跟在屁股后面看，照看）
+- A begger **knocked at** my door.（敲）
+- A car **knocked** the boy **over**.（撞倒）
+- In the fight, the thief **knocked** the policeman **out**.（敲昏）
+- I **knocked** the vase **off** the table and broke it.（碰掉）
+- He finishes his work and always **knocks off** at 6:00.（下班）
+- The shop assistant **knocked** 10% **off** the bill.
