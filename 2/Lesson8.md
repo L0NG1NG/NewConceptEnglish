@@ -34,6 +34,8 @@ Joe Sanders has **the most beautiful garden in our town**. Nearly everybody ente
 
 通常用于三者及以上的比较
 形式：adj./adv.的最高级 + （介词短语标识比较的范围）
+- He is the tallest **of** all the students.(在比较对象之间用介词短语of)
+- He is the tallest **in** our class.(在一个场所、地点当中用in)
 
 ### 比较级
 
