@@ -22,3 +22,22 @@ We have old musical instrument. It is called a clavichord. It was made in German
 - He will be beaten tomorrow.（他明天将要被打）
 - He is being beaten now.(他正在被打)
 - He has been beaten.(他已经被打了)
+
+### 名词所有格
+
+1.用来表示谁的什么。通常在名词的后面加 **’s**，如果名词刚好以s结尾，那么就直接加 **’**。
+例如：
+
+- Lily's books.(莉莉的书)
+- students' books.(学生们的书)
+- twenty minuets' time.(20分钟的时间)
+
+2.另外一种表示方法可以用**of**，也是表示谁的什么，只不过次序是反的，例如：
+
+the door of the room.(房间的门)
+
+双重名词所有格：结合 **’s** 和 **of**。
+
+a friend **of** my father **'s** (friends)
+
+课文省略了frients这个词，避免句子过于绕口。
