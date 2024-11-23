@@ -16,3 +16,36 @@ Our neighbour, Caption Charles Alison, will sail from Portsmouth tomorrow. We'll
 |harbour| 港口 |
 |sail| 航行 |
 |the Atlantic Ocean| 大西洋 |
+|plenty of | 许多，言外之意表示充足，足够。可数不可数都能接 |
+|race| 比赛，通常比速度的 |
+
+## 关键句型
+
+### 一般将来时
+
+表示现在的将来，现在的之后。
+
+- He **will be** a teacher.
+- He **is going to be** a teacher.
+
+形式：
+
+- shall + do，主语只能是第一人称,不常用
+- will + do，暗含愿意、意愿
+- be（am/is/are）going to + do，更强调事先有预兆，有计划的
+
+#### 否定疑问
+
+- He will not be a teacher.
+- Will he be a teacher?
+- He is not going to be a teacher.
+- Is he going to be a teacher?
+
+#### 非延续性动词
+
+表示动作瞬间完成。如：Leave
+
+不能搭配一段时间。
+
+He will be away for two months.（√）
+He will leave for two months.(×)
