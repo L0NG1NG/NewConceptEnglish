@@ -13,3 +13,38 @@ I had an amusing experience last year. After I had left a small village in the s
 amusing 好笑的，有趣的
 wave 招手
 lift 搭便车
+
+## 关键句型
+
+### 过去完成时
+
+形式：had + done
+用法：过去的之前
+
+When he got there, she was not there. She had left.
+
+#### 否定疑问
+
+- She had left.
+- She had not left.
+- Had She left?
+- What had she done?
+
+#### 与一般过去时搭配
+
+可以用来表示两件发生在过去的事，过去完成时表示更早之前。
+
+- After he had finished work, he went home.
+- He went home, after he had finished work.
+- As soon as the sun had set, we returned to ou hotel.
+
+### 过去完成时 vs.现在完成时
+
+- It is 10:00. I have waited for 2 hours.
+- It was 10:00. I had waited for 2 hours.
+
+### 过去完成时 vs.一般过去时 vs. 过去将来时
+
+**had done**  **did** **would do**
+过去的之前、过去、过去的之后
+最主要就是用来表示时间的先后
