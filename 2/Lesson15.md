@@ -13,3 +13,15 @@ The he smiled and told me I would receive an extra thousand pounds a year!
 “哈姆斯沃斯先生，”我虚弱地说道。
 “别打断，”他说。
 然后他笑了笑，告诉我说，我每年将得到一千英镑的额外收入！
+
+## 直接引语言变间接引语
+
+转述别人的话,间接引语其实就是宾语从句的应用，去掉引号转成宾语从句。
+
+|直接引语|间接引语|
+|---|---|
+|He says, 'I am a foll.' | He say he is a foll.  |
+|He said, 'I am a foo.'| He said he was a foll. |
+|He said, 'I will go to Italy.'| He said he would go to Italy. |
+|He said, 'I went to Italy.'| He said he had gone to Italy. |
+|现在完成时| hava/has + done |
