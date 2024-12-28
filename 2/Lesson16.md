@@ -15,6 +15,11 @@ If you park your car in the wrong place, a traffic policeman will soon find it. 
 
 一个句子做状语去表达描述性的信息，针对主句进行进一步描述。
 
+- 条件状语从句（if）
+- 时间状语从句（when、befor、after...）
+- 原因状语从句（because）
+- ...9种
+
 ### if的真实条件状语从句
 
 句子前加上**if**构成的状语从句,假设这件事能成真就认为是**真实条件句**，相反，无法实现的叫**虚拟条件句**。
@@ -23,4 +28,4 @@ If you park your car in the wrong place, a traffic policeman will soon find it. 
 
 - If he is out, I will call him tomorrow.【从句假设现在，主句用一般将来时】
 
-- If it rains tomorrow, we will stay at home.【从句假设将来，主句用一般将来时】
+- ★If it rains tomorrow, we will stay at home.【从句假设将来，主句用一般将来时】
