@@ -27,6 +27,5 @@ He looks pale.He must be ill.
 推测过去：must have done
 It must have rained last night.
 
-
 2.表示不可避免的义务，‘必须’，可以用于现在和将来，不可用于过去（用hava to）
 I must do it now.
