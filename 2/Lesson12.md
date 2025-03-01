@@ -1,4 +1,4 @@
-# Goodbye and goo luck
+# Goodbye and good luck
 
 ## 原文
 
