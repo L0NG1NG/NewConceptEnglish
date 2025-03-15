@@ -40,6 +40,15 @@ Do they speak English?
 
 ## 语法
 
+并列句  
+表示多件事一样重要，写法为多个简单句之间使用**并列连词**连接。  
+并列连词可分为以下类型
+
+- 顺接（and）
+- 转折（后一件事表示出乎意料的结果，从阅读来说转折的句子更重要）
+- 选择（或者...或者；既不也不）
+- 因果（因为所以）
+
 ### 并列句中的语序
 
 通过并列连词可以把几个简单句连接起来构成一个并列句。在并列句中，各分句要根据上下文的要求按逻辑次序排列，但各分句都同等重要并独立存在。  
@@ -68,7 +77,8 @@ Hurry up,**or** you will be late.
 
 Both the girl and the boy are his friends.  
 
-🌸当主语由 neither...nor,either...or,not only...but also 或or 连接时，谓语动词与nor,or,but also后面的词一致，在英语语法中，这被称之为“就近原则”，离动词最近的名词是单数, 整个主语就视为单数；离动词最近的名词是复数, 整个主语就视为复数  
+🌸当主语由 neither...nor,either...or,not only...but also 或or 连接时，谓语动词与nor,or,but also后面的词一致，在英语语法中，这被称之为“就近原则”。  
+离动词最近的名词是单数, 整个主语就视为单数；离动词最近的名词是复数, 整个主语就视为复数  
 
 - Neither he nor I am going to the airport.
 - Not only Mary but also her parents have jgone abroad.
