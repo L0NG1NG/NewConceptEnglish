@@ -36,3 +36,40 @@ She looked at it critically for a moment.
 I looked at it again.  
 She was right! It was!  
 
+## 宾语从句
+
+宾语从句是**在主句中充当宾语成分的从句**，通常由**从属连词（如that, whether, if）、连接代词（如who, what, which）或连接副词（如when, where, why, how）**引导。它可以是**及物动词的宾语**，也可以是**介词的宾语**。  
+
+1.陈述句变宾语从句  
+引导词使用**that**(可省略)  
+They understand modern art.  
+Many people pretend **(that) they understand modern art**.
+
+2.特殊疑问句变宾语从句
+将原来的主语放在动词前面，引导词用原疑问词（如what, when, why等）
+What is a picture 'about'?
+They always tell you **what a picture is 'about'**.  
+
+3.一般疑问句变宾语从句
+主语提前，引导词用 whether/if，其中whether在百分百情况下可以使用  
+Are my picture good or not?  
+She always tells me **whether/if my pictures are good or not**.  
+
+### 宾语从句出现的位置
+
+#### 及物动词后接宾语（动宾）
+
+1.及物动词后直接加宾语（动单宾）
+Many people **pretend** that they understand modern art.
+
+2.及物动词后加人+宾语（动双宾）
+They always **tell you** what a picture is 'about'.  
+
+#### 介词后接宾语（介宾）
+
+He was astonished at what he found.  
+他对自己的发现感到十分惊讶。  
+
+#### 形容词后接宾语(简单了解)
+
+完整形式为 形容词+介词+宾语，其中的介词被省略  
