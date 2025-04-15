@@ -34,3 +34,4 @@
 
 1. [Do the English speak English](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson25.md)
 2. [The best art critics](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson26.md)
+3. [A wet night](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson27.md)
