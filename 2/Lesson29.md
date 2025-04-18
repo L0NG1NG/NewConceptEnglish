@@ -1,4 +1,4 @@
-# Taxi!
+# Taxi
 
 ## 译文
 
@@ -25,3 +25,18 @@ Once he landed on the roof of a block of flats and on another occasion, he lande
 Captain Fawcett has just refused a strange request from a businessman.  
 The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean,  
 but Captain Fawcett did not take him because the trip was too dangerous.  
+
+## 现在完成时
+
+have/has + done  
+
+## 表语从句
+
+🍉含义：一个句子充当表语  
+🍉位置：出现在系动词后  
+🍉写法：同宾语从句  
+
+- 例
+  - His suggestion is **that we should keep calm**.
+  - The question is **when he will arrive here**.
+  - The points is **where the new plane is festable**.(重点是这个新的计划是否可行)
