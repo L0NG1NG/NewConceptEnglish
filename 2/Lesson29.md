@@ -28,7 +28,21 @@ but Captain Fawcett did not take him because the trip was too dangerous.
 
 ## 现在完成时
 
-have/has + done  
+现在完成时（Present Perfect Tense）是英语中连接**过去和现在**的重要时态，强调动作对现在的影响或持续状态  
+核心特点是**不关注具体过去时间**,而关注与现在的关联  
+结构：have/has + done  
+
+### 常搭配
+
+1. 🍉表示过去的经历(不强调时间)
+    - have/has+(**just/already/ever/never**)+done
+2. 🍉搭配时间词组
+    - up to now/up till now(截止到现在)
+    - so far
+    - for + 一段时间
+3. 🍉since
+    - He has lived in Beijing since 1993.(since+过去的时间)
+    - He has lived in Beijing since hes was born.(since+过去的动作)
 
 ## 表语从句
 
