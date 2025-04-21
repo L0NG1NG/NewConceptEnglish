@@ -15,13 +15,32 @@
 
 ## 原文
 
-1. Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.
-2. Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.
-3. It was his job to repair bicycles and at that time he used to work fourteen hours a day.
-4. He saved money for years and in 1958 he bought a small workshop of his own.
-5. In his twenties Frank used to make spare parts for aeroplanes.  
+1. Yesterday afternoon Frank Hawkins **was telling** me about his experiences as a young man.
+2. Before he retired, Frank was the head of a very large business company, but as a boy he **used to** work in a small shop.
+3. It was his job to repair bicycles and at that time he **used to** work fourteen hours a day.
+4. He **saved money** for years and in 1958 he **bought** a small workshop of his own.
+5. In his twenties Frank **used to** make spare parts for aeroplanes.  
 6. At that time he had two helpers.
-7. In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.
+7. In a few years the small workshop **had become** a large factory **which employed seven hundred and twenty-eight people**.
 8. Frank smiled when he remembered his hard early years and the long road to success.
-9. He was still smiling when the door opened and his wife came in.
-10. She wanted him to repair their grandson's bicycle!
+9. He **was** still **smiling** when the door **opened** and his wife **came** in.
+10. She **wanted** him to repair their grandson's bicycle!
+
+## 关键句型
+
+1. used to do sth. 过去常常做某事。表示过去有过但现在已不存在的习惯，便于将现在和过去形成对照。
+
+    - He used to work in a small shop.
+    - People used to be happy when they were young.
+
+2. work和job
+
+    1. work为不可数名词/动词，**泛指劳动、任务或职业活动**，可以是任何形式的工作，包括脑力或体力劳动。
+         - I have a lot of work to do today.（我今天有很多工作要做）
+         - She works as a doctor.（她的职业是医生）
+         - Hard work pays off.（努力会有回报）
+
+    2. job为可数名词，**强调具体的职业或职位**，指有固定收入、正式或长期的工作。
+        - She has a full-time job at a bank.（她在银行有一份全职工作）
+        - He lost his job last month.（他上个月失业了）
+        - What’s your dream job?（你梦想的职业是什么）
