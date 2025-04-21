@@ -4,6 +4,9 @@
 
 ## Unit 2
 
+- 32、[Shopping made easy](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson32.md)(比较级)
+- 31、[Success story](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson31.md)(一般过去时/过去进行时)
+- 30、[Football or polo?](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson30.md)
 - 29、[Taxi!](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson29.md)(现在完成时)
 - 28、[No parking](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson28.md)(定语从句)
 - 27、[A wet night](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson27.md)
