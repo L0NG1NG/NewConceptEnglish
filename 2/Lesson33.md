@@ -15,13 +15,41 @@
 
 ## 原文
 
-1. Nearly a week passed before the girl was able to explain what had happened to her.
-2. One afternoon she set out from the coast in a small boat and was caught in a storm.
-3. Towards evening, the boat struck a rock and the girl jumped into the sea.
-4. Then she swam to the shore after spending the whole night in the water.
+1. Nearly a week passed before the girl was able to explain **what had happened to her**.
+2. One afternoon she set out from the coast **in a small boat** and was caught **in a storm**.
+3. Towards evening, the boat struck a rock and the girl jumped **into the sea**.
+4. Then she swam **to the shore** after spending the whole night **in the water**.
 5. During that time she covered a distance of eight miles.
 6. Early next morning, she saw a light ahead.
-7. She knew she was near the shore because the light was high up on the cliffs.
-8. On arriving at the shore, the girl struggled up the cliff towards the light she had seen.
+7. She knew she was near the shore because the light was high up **on the cliffs**.
+8. On arriving **at the shore**, the girl struggled up the cliff **towards the light** she had seen.
 9. That was all she remembered.
-10. When she woke up a day later, she found herself in hospital.
+10. When she woke up a day later, she found herself **in hospital**.
+
+## 介词
+
+> 介词（Prepositions）是连接名词、代词或短语与其他句子成分的词，用于表示时间、地点、方向、方式、原因等关系  
+
+1.地点介词  
+
+- from/to/towards/for:表示为 来/去/去/去
+  - set out **from** the coast
+  - swam **to** the shore
+  - **towards** the light she had seen
+  - set out **for** the village
+
+- into/out of:进去里边/出来外边
+  - jumped into the sea.
+  - out of darkness.
+
+- at: 用于具体地点或小范围
+  - at the door（在门口） / at home（在家）
+
+- on: 表示在表面上
+  - on the table（在桌上） / on the cliff（在悬崖上）
+
+- in: 表示在内部或大范围
+  - in a storm（在暴风雨中） / in China（在中国）
+
+- under/above: 上下位置
+  - under the bed（床下） / above the clouds（云层上方）
