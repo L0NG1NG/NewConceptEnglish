@@ -16,14 +16,22 @@
 
 ## 原文
 
-1. Dan Robinson has been worried all week.
+1. Dan Robinson **has been worried** all week.
 2. Last Tuesday he received a letter from the local police.
-3. In the letter he was asked to call at the station.
-4. Dan wondered why he was wanted by the police,
+3. In the letter he **was asked** to call at the station.
+4. Dan wondered why he **was wanted** by the police,
 5. but he went to the station yesterday and now he is not worried anymore.
-6. At the station, he was told by a smiling policeman that his bicycle had been found.
-7. Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.
-8. It is now being sent to his home by train.
+6. At the station, he **was told** by a smiling policeman that his bicycle **had been found**.
+7. Five days ago, the policeman told him, the bicycle **was picked up** in a small village four hundred miles away.
+8. It is now **being sent** to his home by train.
 9. Dan was most surprised when he heard the news.
-10. He was amused too, because he never expected the bicycle to be found.
-11. It was stolen twenty years ago when Dan was a boy of fifteen!
+10. He **was amused** too, because he never expected the bicycle to **be found**.
+11. It **was stolen** twenty years ago when Dan was a boy of fifteen!
+
+## 短语动词call
+
+- He was asked to **call at** the station.(拜访某地)
+- He **called out** to me but I did not hear him(大声喊)
+- I **called on** George yesterday.(拜访某人)
+- She will **call** you **up** tomorrow.(打电话)
+- It began to rain so we **called off** the match.(取消)
