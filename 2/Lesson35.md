@@ -17,15 +17,26 @@
 
 ## 原文
 
-1. Roy Trenton used to drive a taxi.  
+1. Roy Trenton **used to drive** a taxi.  
 2. A short while ago, however, he became a bus driver and he has not regretted it.  
-3. He is finding his new work far more exciting.
+3. He is finding his new work **far more exciting**.
 4. When he was driving along Catford Street recently,
-5. he saw two thieves rush out of a shop and run towards a waiting car.
+5. he **saw two thieves rush** out of a shop **and run** towards a waiting car.
 6. One of them was carrying a bag full of money.  
 7. Roy acted quickly and drove the bus straight at the thieves.
 8. The one with the money got such a fright that he dropped the bag.  
 9. As the thieves were trying to get away in their car, Roy drove his bus into the back of it.  
-10. While the battered car was moving away, Roy stopped his bus and telephoned the police.
-11. The thieves' car was badly damaged and easy to recognize.  
-12. Shortly afterwards, the police stopped the car and both men were arrested.  
+10. **While** the battered car **was moving** away, Roy stopped his bus and telephoned the police.
+11. The thieves' car **was** badly **damaged** and easy to recognize.  
+12. Shortly afterwards, the police stopped the car and both men **were arrested**.  
+
+## 关键句型
+
+🍉so...that.../such...that...表示因果关系引出结果状语从句，太...所以  
+
+1. so...that... （so接形容词副词）
+    - The thieves ran away so quickly that I didn't have time to call the police.
+    - The story is so interesting that I want to share it with you.
+2. such...that...（such接名词或名词词组）
+    - The one with the money got such a fright that he dropped the bag.
+    - It is such an interesting story that I want to share to with you.
