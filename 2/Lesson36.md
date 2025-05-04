@@ -2,17 +2,17 @@
 
 ## 原文
 
-1. Debbie Hart is going to swim across the English Channel tomorrow.
-2. She is going to set out from the French coast at five o'clock in the morning.
+1. Debbie Hart **is going to swim** across the English Channel tomorrow.
+2. She **is going to set** out from the French coast at five o'clock in the morning.
 3. Debbie is only eleven years old and she hopes to set up a new world record.
 4. She is a strong swimmer and many people feel that she is sure to succeed.
-5. Debbie s father will set out with her in a small boat.
+5. Debbie's father **will set** out with her in a small boat.
 6. Mr.Hart has trained his daughter for years.
-7. Tomorrow he will be watching her anxiously as she swims the long distance to England.
-8. Debbie intends to take short rests every two hours.
-9. She will have something to drink but she will not eat any solid food.
-10. Most of Debbie s school friends will be waiting for her on the English coast.
-11. Among them will be Debbie s mother, who swam the Channel herself when she was a girl.
+7. ⭕ Tomorrow he **will be watching** her anxiously **as she swims the long distance to England**.
+8. Debbie **intends to** take short rests every two hours.
+9. She **will have** something to drink but she **will not eat** any solid food.
+10. Most of Debbie's school friends **will be waiting** for her on the English coast.
+11. ⭕ Among them **will be** Debbie's mother, who swam the Channel herself when she was a girl.
 
 ## 译文
 
@@ -27,3 +27,18 @@
 9. 她将喝些饮料，但不吃固体食物
 10. 黛比的大部分同学将在英国海岸等候她
 11. 他们当中还会有黛比的母亲，她本人还是个姑娘时，也曾横渡过英吉利海峡！
+
+## 关键句型
+
+### 表示将来
+
+|类型|表示|用法|
+|---|------|---|
+|一般将来时|1. will/shall + do </br> 2. am/is/are + going to do | - |
+|将来进行时|will/shall + be doing|1. 将来某时正在进行</br>2. 确定要发生的将来|
+|一般现在时|do/does|时间状语和条件状语从句中用来表示将来|
+|表示将来的词组|intend to do|-|
+
+### 非限定性定语从句
+
+例: I met your mother,who was staying in Paris. (名词范围确定，不用限定，使用逗号隔开)  
