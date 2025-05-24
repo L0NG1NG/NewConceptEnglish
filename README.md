@@ -4,6 +4,7 @@
 
 ## Unit 2
 
+- 38、[Everything except the weather](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson38.md)
 - 37、[The Olympic Games](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson37.md)
 - 36、[Across the Channel](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson36.md)
 - 35、[Stop thief!](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson35.md)(复习26-34)
