@@ -16,8 +16,16 @@
 1. While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful,but the doctor refused to do so.
 2. The following day, the patient asked for a bedside telephone.
 3. When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.
-4. When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.
-5. He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.
-6. He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.
-7. Then Dr. Millington asked the caller if he was a relative of the patient.
+4. When the doctor answered the phone, Mr. Gilbert said **he was inquiring about a certain patient, a Mr. John Gilbert**.
+5. He asked **if Mr. Gilbert's operation had been successful** and the doctor told him **that it had been**.
+6. He then asked **when Mr. Gilbert would be allowed to go home** and the doctor told him **that he would have to stay in hospital for another two weeks**.
+7. Then Dr. Millington asked the caller **if he was a relative of the patient**.
 8. 'No,' the patient answered, 'I am Mr. John Gilbert.'
+
+## 直接引语变间接引语
+
+|直接引语|间接引语|
+|---|---|
+| I am inquiring about a certain patient.|Mr. Gilbert said (that) he was inquiring about a certain patient.|
+| Was my operation successful?| He asked his doctor to tell him whether his operation had been successful.|
+| When will Mr. Gilbert be allowed to go home?|He then asked when Mr. Gilbert would be allowed to go home.|
