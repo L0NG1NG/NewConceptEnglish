@@ -22,10 +22,12 @@
 7. Then Dr. Millington asked the caller **if he was a relative of the patient**.
 8. 'No,' the patient answered, 'I am Mr. John Gilbert.'
 
-## 直接引语变间接引语
+## 直接引语变间接引语(Lesson15)
 
 |直接引语|间接引语|
 |---|---|
-| I am inquiring about a certain patient.|Mr. Gilbert said (that) he was inquiring about a certain patient.|
-| Was my operation successful?| He asked his doctor to tell him whether his operation had been successful.|
-| When will Mr. Gilbert be allowed to go home?|He then asked when Mr. Gilbert would be allowed to go home.|
+| I am inquiring about a certain patient. | Mr. Gilbert said (that) he was inquiring about a certain patient. |
+| Was my operation successful?| He asked his doctor to tell him whether his operation had been successful. |
+| When will Mr. Gilbert be allowed to go home? | He then asked when Mr. Gilbert would be allowed to go home. |
+| "Will Jack arrive tomorrow?" Tome asked |Tome asked whether/if Jack would arrive the next day.|
+| "Why didn't he write to me?" she asked. | She asked why he hadn't written to her. |
