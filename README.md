@@ -4,13 +4,13 @@
 
 ## Unit 2
 
+- 39、[Am I all right?](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson39.md)
 - 38、[Everything except the weather](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson38.md)
 - 37、[The Olympic Games](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson37.md)
 - 36、[Across the Channel](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson36.md)
 - 35、[Stop thief!](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson35.md)(复习26-34)
 - 34、[Quick work](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson34.md)(被动语态)
 - 33、[Out of darkness](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson33.md)(表示地点介词)
-- 32、[Shopping made easy](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson32.md)(比较级)
 - 32、[Shopping made easy](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson32.md)(比较级)
 - 31、[Success story](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson31.md)(一般过去时/过去进行时)
 - 30、[Football or polo?](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson30.md)
