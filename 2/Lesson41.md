@@ -25,3 +25,23 @@
 8. 'And a woman can't have too many hats,' she answered.
 9. Ten minutes later we walked out of the shop together.
 10. My wife was wearing a hat that looked like a lighthouse!
+
+## Key structure
+
+### need
+
+1. 实义动词
+    - He needs some time.
+    - He needs to have a rest.
+    - He needs friends to help him.
+    - Her bag needs mending.
+2. 情态动词
+
+🍉need do/ needn't do 用作真实表达  
+
+🍉接 have done 用作虚拟表达：
+
+- need have done (本来需要做某事，但事实上没做)
+- needn't have done (本来不需要做某时，但事实上做了)
+
+不管是充当**实义动词**还是**情态动词**都表示**需要**的意思！
