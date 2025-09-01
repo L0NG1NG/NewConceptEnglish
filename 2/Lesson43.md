@@ -14,10 +14,40 @@
 ## 原文
 
 1. In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time.
-2. Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below,they soon ran into serious trouble.
+2. Though, **at first**, Byrd and his men **were able to take** a great many photographs of the mountains that lay below,they soon ran into serious trouble.
 3. At one point, it seemed certain that their plane would crash.
 4. It could only get over the mountains if it rose to 10,000 feet.
-5. Byrd at once ordered his men to throw out two heavy food sacks.
-6. The plane was then able to rise and it cleared the mountains by 400 feet.
-7. Byrd now knew that he would be able to reach the South Pole which was 300 miles away,for there were no more mountains in sight.
-8. The aircraft was able to fly over the endless white plains without difficulty.
+5. Byrd **at once** ordered his men to throw out two heavy food sacks.
+6. The plane **was** then **able to** rise and it cleared the mountains by 400 feet.
+7. Byrd now knew that he would **be able to** reach the South Pole which was 300 miles away,for there were no more mountains in sight.
+8. The aircraft **was able to** fly over the endless white plains without difficulty.
+
+## can/be able to
+
+[Lesson19](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson19.md)
+
+🍉相同点:都表示能力，能够  
+
+🍉不同点：
+
+1. 表示过去已经成功做到的，用was/were able to ,而不用could
+2. can 还能作为情态动词表示猜测、允许
+
+## 主语从句（Subject Clause）
+
+1. 一个完整的句子充当主句的主语
+2. 出现的位置在句首或句尾
+
+示例：
+
+- It is a pity that you can't go with us.
+- That he arrived on time made everyone happy.
+- Whether they will arrive here on time is uncertain.
+
+## at 介词短语
+
+- Billy is not **at home at present**.He's **at school**.
+- After walking for several hours,we arrived at the village **at last**.（最后）
+- He behaves very strange **at times** (有时)
+- I know he's often rude to people,but he's a very pleasant person **at heart**.(在内心深处)
+- I don't know what I can do about it. I'm completely **at a loss**.(迷惑、不知所措)
