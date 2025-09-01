@@ -19,7 +19,7 @@
 4. When he began to play a tune, we had our first glimpse of the snake.
 5. It rose out of the basket and began to follow the movements of the pipe.
 6. We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.
-7. The snake, however, continued to 'dance' slowly.
+7. The snake, however, continued to 'dance'。/ slowly.
 8. It obviously could not tell the difference between Indian music and jazz!
 
 ## 复习have用法
@@ -38,6 +38,8 @@
 | He wanted to drink a glass of water| He wanted to have a drink of water |
 | We will talk about the problem tomorrow | We will have a talk about the proble tomorrow |
 | Look at this | Have a look at this |
+| She is resting | She is having a rest|
+| Did you sleep well last night| Did you have a good sleep last night |
 
 ### 助动词
 

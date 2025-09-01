@@ -4,6 +4,7 @@
 
 ## Unit 2
 
+- 42、[Not very musical](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson42.md)
 - 41、[Do you call that a hat?](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson41.md)
 - 40、[Food and talk](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson40.md)
 - 39、[Am I all right?](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson39.md)
