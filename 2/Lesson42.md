@@ -13,11 +13,40 @@
 
 ## 原文
 
-1. As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.
-2. After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.
+1. As we had **had a long walk** through one of the markets of old Delhi, we stopped at a square to **have a rest**.
+2. After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to **have a look** at him.
 3. As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.
 4. When he began to play a tune, we had our first glimpse of the snake.
 5. It rose out of the basket and began to follow the movements of the pipe.
 6. We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.
-7. The snake, however, continued to dance slowly.
+7. The snake, however, continued to 'dance' slowly.
 8. It obviously could not tell the difference between Indian music and jazz!
+
+## 复习have用法
+
+[Lesson18]((https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson18.md))
+
+### 实义动词
+
+作为实义动词表示:“有”，“吃喝玩乐做”  
+
+🍉有时我们可以使用have a + 名词用于代替普通名词
+
+|instead of saying | we can say|
+|---|---|
+|I walked in the garden | I had a walk in the garden|
+| He wanted to drink a glass of water| He wanted to have a drink of water |
+| We will talk about the problem tomorrow | We will have a talk about the proble tomorrow |
+| Look at this | Have a look at this |
+
+### 助动词
+
+无实义,用于完成时态中
+
+## however用法
+
+表示但是，可以放在一个句子的**开头**、**中间**、**结尾**。用逗号隔开，放在中间时通常就在主语和谓语之间。
+
+- The snake, however, continued to 'dance' slowly.
+- The snake continued to 'dance' slowly,however.
+- However,the snake continued to 'dance' slowly.
