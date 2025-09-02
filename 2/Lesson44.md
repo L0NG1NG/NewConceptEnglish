@@ -14,10 +14,23 @@
 ## 原文
 
 1. Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.
-2. They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.
-3. In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.
+2. They had **rushed up to her** while she was **having a picnic at the edge of a forest** with her children and **tried to steal** her handbag.
+3. In the struggle, the strap broke and, **with the bag in their possession**, both men started running through the trees.
 4. Mrs. Sterling got so angry that she ran after them.
 5. She was soon out of breath, but she continued to run.
 6. When she caught up with them, she saw that they had sat down and were going through the contents of the bag,so she ran straight at them.
 7. The men got such a fright that they dropped the bag and ran away.
 8. The strap needs mending, said Mrs. Sterling later,but they did not steal anything.
+
+## doing 动名词
+
+🍉 作主语  
+
+- Fishing is my favorite sport.  
+
+🍉 介词后,作宾语  
+
+- I often fish for hours without catching anything.
+- 🍉I am looking forward to seeing him tomorrow.
+- 🍉I am accustomed to getting up early.(习惯于)
+- 🍉I am used to getting up early.（习惯于）
