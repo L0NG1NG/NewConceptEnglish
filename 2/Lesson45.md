@@ -13,11 +13,21 @@
 
 ## 原文
 
-1. The whole village soon learnt that a large sum of money had been lost.
-2. Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.
-3. Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.
+1. The whole village soon learnt that a large sum of money **had been lost**.
+2. Sam Benton, the local butcher, had lost his wallet **while taking his savings to the post office**.
+3. Sam was sure that the wallet **must have been found** by one of the villagers, but it was not returned to him.
 4. Three months passed, and then one morning, Sam found his wallet outside his front door.
-5. It had been wrapped up in newspaper and it contained half the money he had lost,together with a note which said: A thief, yes, but only 50 per cent a thief!
+5. It had been wrapped up in newspaper and it contained half the money he had lost,together with a note which said: A thief, yes, but only 50 percent a thief!
 6. Two months later, some more money was sent to Sam with another note: Only 25 per cent a thief now!
-7. In time, all Sam s money was paid back in this way.
-8. The last note said: I am 100 per cent honest now!
+7. In time, all Sam's money **was paid back** in this way.
+8. The last note said: 'I am 100 per cent honest now!'
+
+## 被动语态
+
+|instead of saying | we can say|
+|---|---|
+| Someone has prepared a meal for you.| A meal be prepared for you. </br> A meal has bean prepared for you.|
+| Someone will translate the book into English.|The book will be translated into English. |
+| Someone must send a telegram to him. | A telegram must be sent to him. |
+| Some one had put out the fire before the fire brigade arrived.| The fire had been put out before the fire brigade arrived. |
+| Someone gave the cat some milk to drink.|The cat was given some milk to drink.|
