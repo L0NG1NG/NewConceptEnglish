@@ -31,13 +31,13 @@
 It occurs/occurred to sb. to do sth.  
 某人突然想起去做某事  
 
---- 
+---
 
 >He was astonished at what he found.
 
 介词后的宾语从句  
 
---- 
+---
 
 🍉doing/being done
 > He was surprised at being discovered.
@@ -58,3 +58,13 @@ It occurs/occurred to sb. to do sth.
 - We support the argument that the problems of school buses must be taken seriously.
 - We discuss the question whether the meeting should be held.
 - The plane that a new subway station will be build here is welcomed.
+
+## 后面可接to/at/for/with的动词
+
+- I don't agree **with** you.
+- She preferred **to** wait **for** him.
+- I'm surprised **at** you!
+- You must reply **to** his letter.
+- Don't blame me **for** the accident.
+- I knocked **at** the door.
+- He turned **to** me for help,even after I had quarrelled **with** him.
