@@ -13,11 +13,31 @@
 
 ## 原文
 
-1. A public house which was recently bought by Mr. Ian Thompson is up for sale.
-2. Mr. Thompson is going to sell it because it is haunted.
-3. He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.
-4. The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.
-5. Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning.
-6. He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.
-7. When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head.
-8. The villagers have told him that they will not accept the pub even if he gives it away.
+1. **A public house** which was recently bought by Mr.Ian Thompson **is up for sale**.
+2. Mr.Thompson **is going to** sell it because **it is haunted**.
+3. He told me **that he could not go to sleep one night** because he heard a strange noise coming from the bar.
+4. The next morning, he **found that the doors had been blocked** by chairs and the furniture **had been moved**.
+5. **Though** Mr.Thompson **had turned** the lights off before he went to bed, they **were on** in the morning.
+6. He also said that he had found five empty whisky bottles which the ghost **must have drunk** the night before.
+7. When I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head.
+8. The villagers have told him that they will not accept the pub **even if** he gives it away.
+
+## 句子的结构分类
+
+### 简单句
+
+句子的核心：1个主语 + 1个谓语  
+谓语动词的变化：时态、语态、情态、否定
+
+### 并列句
+
+多个简单句一样重要,通过并列连词变成并列句
+
+### 复合句
+
+主句+从句  
+从句包含:
+
+- 名词性从句(主/宾/表/同位)
+- 定语从句
+- 状语从句
