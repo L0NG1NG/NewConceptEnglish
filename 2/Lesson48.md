@@ -15,11 +15,11 @@
 ## 原文
 
 1. Dentists always ask questions when it is impossible for you to answer.
-2. My dentist had just pulled out one of my teeth and had told me to rest for a while.
+2. My dentist **had just pulled** out one of my teeth **and had told** me to rest for a while.
 3. I tried to say something, but my mouth was full of cotton wool.
-4. He knew I collected match boxes and asked me whether my collection was growing.
-5. He then asked me how my brother was and whether I liked my new job in London.
-6. In answer to these questions I either nodded or made strange noises.
-7. Meanwhile, my tongue was busy searching out the hole where the tooth had been.
+4. He knew **I collected match boxes** and asked me **whether** my collection was growing.
+5. He then asked me **how my brother was** and **whether I liked my new job in London**.
+6. In answer to these questions I **either** nodded **or** made strange noises.
+7. Meanwhile, my tongue **was busy searching** out the hole **where the tooth had been**.
 8. I suddenly felt very worried, but could not say anything.
-9. When the dentist at last removed the cotton wool from my mouth,I was able to tell him that he had pulled out the wrong tooth.
+9. When the dentist **at last** removed the cotton wool from my mouth,I **was able to** tell him **that he had pulled out the wrong tooth**.
