@@ -15,13 +15,29 @@
 
 ## 原文
 
-1. Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.
-2. For the first time in his life, he became the proud owner of a bed which had springs and a mattress.
-3. Because the weather was very hot, he carried the bed on to the roof of his house.
-4. He slept very well for the first two nights, but on the third night, a storm blew up.
-5. A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.
-6. The young man did not wake up until the bed had struck the ground.
-7. Although the bed was smashed to pieces, the man was miraculously unhurt.
-8. When he woke up, he was still on the mattress.
-9. Glancing at the bits of wood and metal that lay around him,the man sadly picked up the mattress and carried it into his house.
-10. After he had put it on the floor, he promptly went to sleep again.
+1. **Tired of sleeping on the floor**, a young man in Teheran saved up for years **to buy a real bed**.
+2. For the first time in his life, he became the proud owner of a bed **which had springs and a mattress**.
+3. **Because** the weather was very hot, he carried the bed on to the roof of his house.
+4. He slept very well for the first two nights, **but** on the third night, a storm blew up.
+5. A gust of wind swept the bed off the roof **and** sent it **crashing into the courtyard below**.
+6. The young man did not wake up **until** the bed had struck the ground.
+7. **Although** the bed was smashed to pieces, the man was miraculously unhurt.
+8. **When** he woke up, he was still on the mattress.
+9. Glancing at the bits of wood and metal that lay around him,the man sadly picked up the mattress **and** carried it into his house.
+10. **After** he had put it on the floor, he promptly went to sleep again.
+
+## 状语从句的省略
+
+前提条件：主句和从句的主语相同才能省略  
+
+🍉done做状语,表被动  
+> **Because she was punished**, she burst into tears.
+> **Because punished**, she burst into tears.
+> **Punished**, she burst into tears.
+
+---
+
+🍉doning做状语,表主动
+> **While he was talking with me**, he broke his cup carelessly.
+> **While talking with me**, he broke his cup carelessly.
+> **Talking with me**, he broke his cup carelessly.
