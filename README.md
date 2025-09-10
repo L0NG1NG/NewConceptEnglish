@@ -2,9 +2,14 @@
 
 2024/08/25
 
+## Unit 3
+
+- 49、[The end of a dream](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson49.md)
+
 ## Unit 2
 
-- 47、[Did you want to tell me something](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson46.md)
+- 48、[Did you want to tell me something](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson48.md)
+- 47、[A thirsty ghost](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson47.md)
 - 46、[Expensive and uncomfortable](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson46.md)
 - 45、[A clear conscience](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson45.md)
 - 44、[Through the forest](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson44.md)
