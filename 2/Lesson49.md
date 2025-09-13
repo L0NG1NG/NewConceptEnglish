@@ -41,3 +41,21 @@
 > **While he was talking with me**, he broke his cup carelessly.
 > **While talking with me**, he broke his cup carelessly.
 > **Talking with me**, he broke his cup carelessly.
+
+## 合并句子
+
+|合并前|合并后|
+|---|---|
+|He missed the train. He did not hurry.|He missed the train because he did not hurry.|
+|He ran fast. He failed to win the race.|He ran fast but he failed to win the race.|
+| My neighbour counld not return home. He went to Tokyo fo a holiday. He did not have enough money.| My neighbour, who went to Tokyo for a holiday, could not return home, because he did not have enough money.|
+|The city was destoryed during the war. The city was not been completely rebuilt| Destroyed during the war, the city has not been completely rebuild. |
+|I found the door unlocked. I went into the kitchen.| Finding the door unlocked, I went into the kitchen.|
+|I went into the garden. I wanted to pick some flowers.| I went into the garden to pick some flowers.|
+
+## 不规则变化的动词
+
+||原型|过去式|过去分词|
+| --- | --- |--- |--- |
+| 吹、刮 | blow | blew | blown|
+| 扫、席卷|sweep | swept |swept|
