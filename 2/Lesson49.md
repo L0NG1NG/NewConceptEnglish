@@ -38,9 +38,9 @@
 ---
 
 🍉doning做状语,表主动
-> **While he was talking with me**, he broke his cup carelessly.
-> **While talking with me**, he broke his cup carelessly.
-> **Talking with me**, he broke his cup carelessly.
+> **While he was talking with me**, he broke his cup carelessly. 
+> **While talking with me**, he broke his cup carelessly. 
+> **Talking with me**, he broke his cup carelessly. 
 
 ## 合并句子
 
