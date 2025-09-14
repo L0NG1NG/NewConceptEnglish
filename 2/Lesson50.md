@@ -19,15 +19,15 @@
 ## 原文
 
 1. I love travelling in the country, but I don't like losing my way.
-2. I went on an excursion recently, but my trip took me longer than I expected.
-3. 'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'
-4. 'I'll tell you where to get off.' answered the conductor.
-5. I sat in the front of the bus to get a good view of the countryside.
+2. I **went on an excursion** recently, but my trip took me longer **than I expected**.
+3. "I'm going to Woodford Green," I said to the conductor as I **got on the bus**, "but I don't know **where it is**."
+4. "I'll tell you **where to get off**." answered the conductor.
+5. I sat **in the front of** the bus **to get a good view of the countryside**.
 6. After some time, the bus stopped.
-7. Looking round, I realized with a shock that I was the only passenger left on the bus.
-8. 'You'll have to get off here,' the conductor said. 'This is as far as we go.'
-9. 'Is this Woodford Green?' I asked.
-10. 'Oh dear,' said the conductor suddenly. 'I forgot to put you off.'
-11. 'It doesn't matter,' I said. 'I'll get off here.'
-12. 'We're going back now,' said the conductor.
-13. 'Well, in that case, I prefer to stay on the bus,' I answered.
+7. **Looking round**, I realized with a shock that I was the only passenger **left on the bus**.
+8. "You'll have to get off here," the conductor said. "This is **as far as we go**."
+9. "Is this Woodford Green?" I asked.
+10. "Oh dear," said the conductor suddenly. "**I forgot to put you off**."
+11. "It doesn't matter," I said. "I'll get off here."
+12. "We're going back now,' said the conductor.
+13. "Well, in that case, I **prefer** to stay on the bus," I answered.

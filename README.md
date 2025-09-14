@@ -4,6 +4,7 @@
 
 ## Unit 3
 
+- 50、[Taken for a ride](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson50.md)
 - 49、[The end of a dream](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson49.md)
 
 ## Unit 2
