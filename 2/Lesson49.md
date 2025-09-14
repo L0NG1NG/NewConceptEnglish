@@ -31,16 +31,16 @@
 前提条件：主句和从句的主语相同才能省略  
 
 🍉done做状语,表被动  
-> **Because she was punished**, she burst into tears.
-> **Because punished**, she burst into tears.
-> **Punished**, she burst into tears.
+1. **Because she was punished**, she burst into tears.
+2. **Because punished**, she burst into tears.
+3. **Punished**, she burst into tears.
 
 ---
 
 🍉doning做状语,表主动
-> **While he was talking with me**, he broke his cup carelessly. 
-> **While talking with me**, he broke his cup carelessly. 
-> **Talking with me**, he broke his cup carelessly. 
+1. **While he was talking with me**, he broke his cup carelessly.
+2. **While talking with me**, he broke his cup carelessly.
+3. **Talking with me**, he broke his cup carelessly.
 
 ## 合并句子
 
