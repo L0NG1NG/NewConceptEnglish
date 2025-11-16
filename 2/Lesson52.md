@@ -37,3 +37,12 @@
 - I have been studying English all morning.
 - It has been raining for a week.
 - We have been living here since I was born.
+
+## 某人一辈子曾经做过最XXX的事
+
+形容词最高级 + n. + sb. have ever done  
+
+- 'This is **the prettiest carpet I have ever seen**,' she said.
+- You are the most beautiful girl I have ever seen.
+- This is the most exciting news we have ever heard.
+- That is one of the most foolish things I have ever done.
