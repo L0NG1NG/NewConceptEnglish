@@ -4,7 +4,8 @@
 
 ## Unit 3
 
-- 51、[A pretty carpet](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson52.md)
+- 53、[Hot snake](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson53.md)
+- 52、[A pretty carpet](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson52.md)
 - 51、[Reward for virtue](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson51.md)
 - 50、[Taken for a ride](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson50.md)
 - 49、[The end of a dream](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson49.md)
