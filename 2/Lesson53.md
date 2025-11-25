@@ -10,7 +10,7 @@
 6. 然而今天上午，一个消防队员偶然发现了起火的原因。
 7. 他发现了缠绕在16,000伏高压线上的一条死蛇。
 8. 就这样，他解开了起火之谜。
-9. 解释很简单，却异乎寻常。、
+9. 解释很简单，却异乎寻常。
 10. 一只鸟把蛇从地上抓起来，然后把它扔到了电线上。
 11. 于是蛇就缠住了几根电线。
 12. 当它这样做时，把火花送到了地面，这些火花立刻引起了一场大火。
@@ -29,3 +29,15 @@
 10. A bird had snatched up the snake from the ground and then dropped it on to the wires.
 11. The snake then wound itself round the wires.
 12. When it did so, it sent sparks down to the ground and these immediately started a fire.
+
+## 笔记
+
+首先，学习一下hot这个词，其核心含义是指温度高，热，基于这个核心含义，在不同的场景，有更多的含义：热的，带电的，火的/流行的，辣的，烫的，火辣性感的等等  
+
+| 句子|时态|
+|---|---|
+| At last firemen have put out a big fire. |现在完成时|
+| Since then, they have been trying to find out how the fire began.| 现在完成进行时 |
+|Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away...|一般现在时+ 被动语态|
+| Yesterday the firemen examined the ground carefully  | 过去时  |
+| A bird had snatched up the snake from the ground and then dropped it on to the wires.  |前面是过去完成时，然后是过去时|
