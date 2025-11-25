@@ -23,14 +23,15 @@
 4. Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.
 5. They were also quite sure that a cigarette end did not start the fire.
 6. This morning, however, a firemen accidentally discovered the cause.
-7. He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.
+7. He noticed the remains of a snake which was **wound round** the electric wires of a 16,000-volt power line.
 8. In this way, he was able to solve the mystery.
 9. The explanation was simple but very unusual.
-10. A bird had snatched up the snake from the ground and then dropped it on to the wires.
+10. A bird **had snatched** up the snake from the ground and then **dropped** it on to the wires.
 11. The snake then wound itself round the wires.
 12. When it did so, it sent sparks down to the ground and these immediately started a fire.
 
 ## 笔记
+
 
 首先，学习一下hot这个词，其核心含义是指温度高，热，基于这个核心含义，在不同的场景，有更多的含义：热的，带电的，火的/流行的，辣的，烫的，火辣性感的等等  
 
@@ -40,4 +41,21 @@
 | Since then, they have been trying to find out how the fire began.| 现在完成进行时 |
 |Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away...|一般现在时+ 被动语态|
 | Yesterday the firemen examined the ground carefully  | 过去时  |
-| A bird had snatched up the snake from the ground and then dropped it on to the wires.  |前面是过去完成时，然后是过去时|
+| A bird had snatched up the snake from the ground and then dropped it on to the wires.  |前面是过去完成时，然后是过去时,表明两个动作的先后|  
+
+
+## 单词
+
+| 单词|含义|
+|---|---|
+| hot |a.带电的，充电的|
+| fireman |n.消防员 |
+| cause | v.引起；n.原因|
+| accidentally | ad.意外地，偶然地 |
+| ramains | n.尸体，残骸; v.保持，保留 |
+| wire | n.电线 |
+| volt | n.伏特,电压 |
+| solve | v.解决 |
+| mystery | n.迷 |
+| snatch | v.抓住 |
+| spark | n.电火花 |
