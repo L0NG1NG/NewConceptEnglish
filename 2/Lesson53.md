@@ -32,7 +32,6 @@
 
 ## 笔记
 
-
 首先，学习一下hot这个词，其核心含义是指温度高，热，基于这个核心含义，在不同的场景，有更多的含义：热的，带电的，火的/流行的，辣的，烫的，火辣性感的等等  
 
 | 句子|时态|
@@ -42,7 +41,6 @@
 |Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away...|一般现在时+ 被动语态|
 | Yesterday the firemen examined the ground carefully  | 过去时  |
 | A bird had snatched up the snake from the ground and then dropped it on to the wires.  |前面是过去完成时，然后是过去时,表明两个动作的先后|  
-
 
 ## 单词
 
