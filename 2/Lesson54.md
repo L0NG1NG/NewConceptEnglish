@@ -18,19 +18,37 @@
 
 ## 原文
 
-1. After breakfast, I sent the children to school and then I went to market.
+1. After breakfast, I sent the children **to school** and then I went to market.
 2. It was still early when I returned home.
 3. The children were at school, my husband was at work and the house was quiet
-4. So I decided to make some tarts for tea.
-5. In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.
+4. So I decided to make some meat pies.
+5. In a short time I **was busy mixing** butter and flour and my hands were soon covered with sticky pastry.
 6. At exactly that moment, the telephone rang.
 7. Nothing could have been more annoying.
-8. I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Mrs Bates.
+8. I **picked up** the receiver between two sticky fingers and was dismayed when I recognized the voice of Mrs Bates.
 9. It took me ten minutes to persuade her to ring back later.
-10. At last I hung up the receiver.
-11. What a mess! There was pastry on my fingers, on the telephone, and on the doorknobs.
-12. I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.
-13. This time it was the postman and he wanted me to sign for a registered letter!
+10. At last I **hung up** the receiver.
+11. What a mess! **There was** pastry on my fingers, on the telephone, and on the doorknobs.
+12. I had **no sooner** got back to the kitchen **than** the doorbell rang loud enough to wake the dead.
+13. This time it was the postman and he wanted me to sign for **a registered letter**!
+
+## 定冠词the的拓展用法
+
+### 🍉the + adj. 表示一类
+
+- the dead 死去的人
+- the sick 生病的人
+- the old 老的东西
+
+### 🍉 不加the往往表示泛指（指一类事物、抽象概念或固定搭配中的场所功能）
+
+- I **went to the school** in our village to meet my finend.(特指某一所具体的学校)
+- The children **went to school** this morning.(不加the,强调 school 的核心功能 —— 教育 / 学习)
+
+### 🍉 比较级用法中，有the表示最高级
+
+- It is **the most** interesting film I have ever seen.
+- **Most** people enjoyed it.
 
 ## 单词
 
