@@ -4,6 +4,7 @@
 
 ## Unit 3
 
+- 54、[Sticky fingers](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson54.md)
 - 53、[Hot snake](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson53.md)
 - 52、[A pretty carpet](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson52.md)
 - 51、[Reward for virtue](https://github.com/L0NG1NG/NewConceptEnglish/blob/main/2/Lesson51.md)
