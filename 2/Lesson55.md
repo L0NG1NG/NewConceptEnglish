@@ -28,10 +28,11 @@
 
 ## 非谓语动词
 
-要理解非谓语，需要记住一个黄金法则：**一个简单句有且只能有一个谓语**。 
+要理解非谓语，需要记住一个黄金法则：**一个简单句有且只能有一个谓语**。
 如果句子里已经有一个谓语了，其他的动词想要出现，就必须变成非谓语形式。  
+
 - 🍉 I love singing. love 是谓语（有时态变化，受主语 I 支配）。
-    - singing 是非谓语（动名词，作宾语）。
+- singing 是非谓语（动名词，作宾语）。
 
 ### 🧬 非谓语动词的三大家族
 
@@ -60,13 +61,12 @@
 ## 过去常常做某事
 
 1. used to do sth.
-- I used to go to work by bus. Now I go by car.(表示过去常常做某事，但是现在不这么做了，强调今非昔比)
-- I used to be a student. I used to have many pen-friends.(表示过去的状态)
-
+    - I used to go to work by bus. Now I go by car.(表示过去常常做某事，但是现在不这么做了，强调今非昔比)
+    - I used to be a student. I used to have many pen-friends.(表示过去的状态)
 2. would do sth.
-- 只能表示过去重复发生的动作，不能表示状态。
-- 仅仅是描述过去经常发生的画面，不一定暗示现在已经停止。
-- 常用于回忆往事（怀旧语气），描述在特定场景下反复发生的行为。  
+    - 只能表示过去重复发生的动作，不能表示状态。
+    - 仅仅是描述过去经常发生的画面，不一定暗示现在已经停止。
+    - 常用于回忆往事（怀旧语气），描述在特定场景下反复发生的行为。  
 
 When I was a child, we would go to the beach every summer.  
 这种描述更有画面感，像是在讲故事。
