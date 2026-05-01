@@ -76,8 +76,6 @@
 - It was the oldest car **taking part**.(表示参加、参与)
 - The next race will **take place** in a year's time.（表示发生、举行）
 
-## 注释
-
 [^1]: `race`专门指比速度的比赛，而`competition`可以表示各种各样的比赛。
 [^2]: `a lot of` 既可以接可数名词复数也能接不可数名词,`a great deal of`只能接不可数名词。
 [^3]: 两个非谓语动词分别表示**被建造**和**主动参加**。
