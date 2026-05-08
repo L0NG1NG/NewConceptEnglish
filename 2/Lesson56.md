@@ -40,7 +40,7 @@
 
 ## 许多、大量
 
-修饰或指代**不可数**名词：`much`、`a great deal of`、`a lot of`
+修饰或指代**不可数**名词：`much`、`a great deal of`、`a lot of`  
 修饰或指代**可数**名词：`many`、`a great many of`、`a great number of`、`a lot of`
 
 ## 少、没那么多
